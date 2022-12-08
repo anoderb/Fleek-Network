@@ -19,6 +19,9 @@ sudo apt upgrade -y
 sudo apt install build-essential -y
 sudo apt install libssl-dev pkg-config libclang-dev -y
 ```
+```
+ufw allow 4069
+```
 
 # Install Rust
 
